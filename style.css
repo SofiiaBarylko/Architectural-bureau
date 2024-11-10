@@ -677,9 +677,7 @@ input::placeholder{
 
 
 
-.footer3 img{
-    /* width: 20%; */
-}
+
 .footer_ph1{
     width: 40px;
 }
@@ -798,9 +796,7 @@ input::placeholder{
 
 @media(max-width: 1200px){
     
-    .user_p{
-       
-    }
+    
     .tx_p{
         font-size: 16px;
     }
@@ -816,12 +812,8 @@ input::placeholder{
     .pr_p p{
         font-size: 13px;
     }
-    .ph1 {
-
-    }
-    img.ph11 {
-
-    }
+    
+    
     .price_p{
         margin: 50px;
     }
